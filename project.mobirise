@@ -554,6 +554,9 @@
                 "-webkit-transition": "0.2s background ease-in-out",
                 "transition": "0.2s background ease-in-out"
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "text-align": "left"
             }
           },
           "_name": "gallery1",
@@ -630,7 +633,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/fnis-39-orig-532x800-532x800.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Drums and cymbals. Full control of rhythm and color of the sound by Patryk Dobosz (perfect name for drummer in Hungary). Photo by great Jan Zych.",
+                "caption": "Drums and cymbals. Full control of rhythm and color of the band by Patryk Dobosz (perfect name for drummer in Hungary). Photo by great Jan Zych.",
                 "active": false
               },
               {
